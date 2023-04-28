@@ -60,7 +60,7 @@ THEN that book is deleted from my saved books list<br />
 WHEN I click on the Logout button<br />
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  <br />
 <br />
-<br />
+
 ## Installation <br />
   <a name="installation"></a>
     1) User can copy repository from github at: (https://github.com/jckutch/book-search-engine-jk21-t2)<br />
@@ -68,26 +68,30 @@ THEN I am logged out of the site and presented with a menu with the options Sear
     3) Then install all dependencies with `npm i` in terminal.<br />
     4) Then enter `npm run develop` to start the application.<br />
 <br />
-<br />
+
 ## Usage<br />
   <a name="usage"></a>
 User can create a unique login.<br />
 When user enters a book title in search, 10 search results will populate.<br />
 User can save and delete books searched.<br />
 <br />
-<br />
+
 ## Tests<br />
   <a name="tests"></a>
 None<br />
 <br />
-<br />
+
 ## Links
   <a name="links"></a><br />
-Repository Link:  https://github.com/jckutch/book-search-engine-jk21-t2<br />
+Repository Link:  
+
+https://github.com/jckutch/book-search-engine-jk21-t2<br />
 <br />
-Heroku Link:  https://book-search-engine-jk21-t2.herokuapp.com/<br />
+Heroku Link:  
+
+https://book-search-engine-jk21-t2.herokuapp.com/<br />
 <br />
-<br />
+
 ## Mockup
   <a name="mockup"></a>
 <br />
@@ -97,7 +101,9 @@ Sample Screen Shots:<br />
 ![screenShot](/assets/Web%20capture_8-3-2023_10364_book-search-engine-jk21-t2.herokuapp.com.jpeg)<br />
 <br />
 <br />
-<br />
+
 ## License 
   <a name="license"></a> License
-Licensed under <br /> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/)
+Licensed under <br />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://mit-license.org/)
