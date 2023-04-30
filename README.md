@@ -66,7 +66,8 @@ THEN I am logged out of the site and presented with a menu with the options Sear
     1) User can copy repository from github at: (https://github.com/jckutch/book-search-engine-jk21-t2)<br />
     2) User will need to install Node JS and MongoDB.<br />
     3) Then install all dependencies with `npm i` in terminal.<br />
-    4) Then enter `npm run develop` to start the application.<br />
+    4) Then enter `npm run build` to build the appication.<br />
+    ) Then enter `npm run develop` to start the application.<br />
 <br />
 
 ## Usage<br />
