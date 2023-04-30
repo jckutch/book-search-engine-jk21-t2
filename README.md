@@ -67,7 +67,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
     2) User will need to install Node JS and MongoDB.<br />
     3) Then install all dependencies with `npm i` in terminal.<br />
     4) Then enter `npm run build` to build the appication.<br />
-    ) Then enter `npm run develop` to start the application.<br />
+    5) Then enter `npm run develop` to start the application.<br />
 <br />
 
 ## Usage<br />
@@ -91,16 +91,6 @@ https://github.com/jckutch/book-search-engine-jk21-t2<br />
 Heroku Link:  
 
 https://book-search-engine-jk21.herokuapp.com/<br />
-<br />
-
-## Mockup
-  <a name="mockup"></a>
-<br />
-Sample Screen Shots:<br />
-![screenShot](/assets/Web%20capture_8-3-2023_103410_book-search-engine-jk21-t2.herokuapp.com.jpeg)<br />
-![screenShot](/assets/Web%20capture_8-3-2023_10354_book-search-engine-jk21-t2.herokuapp.com.jpeg)<br />
-![screenShot](/assets/Web%20capture_8-3-2023_10364_book-search-engine-jk21-t2.herokuapp.com.jpeg)<br />
-<br />
 <br />
 
 ## License 
