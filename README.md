@@ -9,7 +9,7 @@
 ## Description<br />
 In this project, I built a functioning application where the user can create an account, sign-in and out of the account and search and save books from database.
 <br />
-<br />
+
 ## Table of Contents<br />
   * [User Story](#userstory)
   * [Acceptance Criteria](#acceptance)
@@ -20,14 +20,14 @@ In this project, I built a functioning application where the user can create an 
   * [Mockup](#mockup)
   * [License](#license)
 <br />
-<br />
+
 ## User Story<br />
   <a name="userstory"></a>
 AS AN avid reader<br />
 I WANT to search for new books to read<br />
 SO THAT I can keep a list of books to purchase<br />
 <br />
-<br />
+
 ## Acceptance Criteria<br />
   <a name="acceptance"></a>
 GIVEN a book search engine<br />
