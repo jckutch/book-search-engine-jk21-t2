@@ -90,7 +90,7 @@ https://github.com/jckutch/book-search-engine-jk21-t2<br />
 <br />
 Heroku Link:  
 
-https://book-search-engine-jk21-t2.herokuapp.com/<br />
+https://book-search-engine-jk21.herokuapp.com/<br />
 <br />
 
 ## Mockup
