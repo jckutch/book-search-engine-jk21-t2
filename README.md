@@ -82,6 +82,16 @@ User can save and delete books searched.<br />
 None<br />
 <br />
 
+## Mockup
+  <a name="mockup"></a>
+<br />
+Sample Screen Shots:<br />
+![screenShot](/assets/images/Landingpage.jpg)<br />
+![screenShot](/assets/images/signuppage.jpg)<br />
+![screenShot](/assets/images/searchedbooks.jpg)<br />
+![screenShot](/assets/images/savedbooks.jpg)<br />
+<br />
+
 ## Links
   <a name="links"></a><br />
 Repository Link:  
